@@ -1,2 +1,0 @@
-# phpbasemodel
-PHP Basis architechture
